@@ -1,0 +1,18 @@
+2020-09-07 16:35:02,432 - root - INFO - 当前运行的操作系统为windows
+2020-09-07 16:35:04,970 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="id_username"]
+2020-09-07 16:35:05,028 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="id_password"]
+2020-09-07 16:35:05,081 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="panel-login"]/div[2]/button
+2020-09-07 16:35:05,578 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@href="/xadmin/hello/card/"]
+2020-09-07 16:35:06,007 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="content-block"]/div[1]/div[2]/div/a
+2020-09-07 16:35:06,323 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="id_card_id"]
+2020-09-07 16:35:06,377 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="id_card_user"]
+2020-09-07 16:35:06,425 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="id_carddetail-0-tel"]
+2020-09-07 16:35:06,479 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="id_carddetail-0-mail"]
+2020-09-07 16:35:06,536 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="id_carddetail-0-city"]
+2020-09-07 16:35:06,590 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="id_carddetail-0-address"]
+2020-09-07 16:35:06,644 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="card_form"]/div[2]/button
+2020-09-07 16:35:07,139 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="content-block"]/div[2]
+2020-09-07 16:35:07,169 - root - INFO - 获取到断言元素的文本内容：×
+银行卡账户_基本信息 "123456" 添加成功。
+2020-09-07 16:35:07,169 - root - INFO - 断言结果：True
+2020-09-07 16:35:07,171 - root - INFO - 全部用例执行完后 teardown quit dirver
